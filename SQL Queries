@@ -6,7 +6,11 @@ SELECT
     COUNT(*) Total_rides
 FROM
     ola;
-    
+
+| Metric      | Value  |
+|------------|--------|
+| Total Rides | 40,539 |
+
 # Q.2 What is the total revenue generated?
 
 SELECT 
