@@ -15,9 +15,7 @@ FROM
 # Q.2 What is the total revenue generated?
 
 SELECT 
-
     SUM(booking_value) AS Total_Revenue
-
 FROM
     ola;
     | Metric        | Value      |
