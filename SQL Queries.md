@@ -1,4 +1,5 @@
 create database Ola_booking;
+
 use ola_booking;
 
 # Q.1 What is the total number of rides?
