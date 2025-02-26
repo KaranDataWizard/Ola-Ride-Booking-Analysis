@@ -1,10 +1,7 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d592ed04-0455-47e0-9866-6c540afd9621" width="800px">
-</p>
-
 <div align="center">
 
+  **End-to-End Data Analyst Project: Ola Ride Booking Analysis**
 
 **Situation**
 Ola, as a leading ride-hailing service, handles a vast amount of ride booking data daily. The challenge was to analyze this data to uncover trends, identify inefficiencies, and provide actionable recommendations to enhance the overall service experience.
