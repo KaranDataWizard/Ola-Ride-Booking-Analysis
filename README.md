@@ -2,11 +2,7 @@
 
   # **End-to-End Data Analyst Project: Ola Ride Booking Analysis**
 
-![Project Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
 
-- **Project Duration**: January 2025 - February 2025
-- **Goals Achieved**: Data cleaned, MySQL database created, insights extracted, interactive dashboards created, actionable recommendations provided
-- **Outcome**: Improved operational efficiency, increased revenue, enhanced customer satisfaction, optimized driver performance
 </div>
 
 ## Table of Contents
