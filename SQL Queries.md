@@ -288,7 +288,7 @@ order by Ride_Distance asc limit 1) ;
 | Shortest Ride  | CNR3800597072   | 1                  |
 
 
-#Q 19 In which cities do customers give the best and worst ratings?
+# Q 19 In which cities do customers give the best and worst ratings?
 
 (SELECT 
     Pickup_Location City, Customer_Rating Best_Rating
